@@ -1,6 +1,3 @@
-# InteractionFlow.tsx — versi baru
-
-```tsx
 'use client';
 
 import { useState } from 'react';
