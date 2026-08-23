@@ -8,22 +8,22 @@ export default function Home() {
   const [showGallery, setShowGallery] = useState(false);
 
   const userImages = [
-    '/20250820_201622_Imc_8.4.jpg',
-    '/2.jpeg',
-    '/3.jpeg',
-    '/4.jpeg',
-    '/5.jpeg',
-    '/6.jpeg',
-    '/7.jpeg',
-    '/8.jpeg',
-    '/9.jpeg',
-    '/10.jpeg',
-    '/11.jpeg',
-    '/12.jpeg',
-    '/13.jpeg',
-    '/14.jpeg',
-    '/15.jpeg',
-  ];
+  '/20250820_201622_Imc_8.4.jpg',
+  '/2nn.jpg',
+  '/3nn.jpg',
+  '/4nn.jpg',
+  '/5nn.jpg',
+  '/6nn.jpg',
+  '/7nn.jpg',
+  '/8nn.jpg',
+  '/9nn.jpg',
+  '/10nn.jpg',
+  '/11nn.jpg',
+  '/12nn.jpg',
+  '/13nn.jpg',
+  '/14nn.jpg',
+  '/15nn.jpg',
+];
 
   return (
     <main className="w-screen h-screen bg-[#060010]">
