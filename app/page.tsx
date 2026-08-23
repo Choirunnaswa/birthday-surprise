@@ -8,7 +8,7 @@ export default function Home() {
   const [showGallery, setShowGallery] = useState(false);
 
   const userImages = [
-    '/1.jpeg',
+    '/20250820_201622_Imc_8.4.jpg',
     '/2.jpeg',
     '/3.jpeg',
     '/4.jpeg',
